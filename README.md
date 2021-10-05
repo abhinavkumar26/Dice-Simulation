@@ -1,3 +1,2 @@
-# Dice-Simulation
-
-A simple python project built with tkinter and random
+# Dice-Simulation 🎲
+Just messing around with random and tkinter 😅
